@@ -8,18 +8,3 @@ python run.py [original vec file] [translationese vec file] [frequency] [method]
 ## References
 If you found this code useful, please cite the following papers:
 
-@inproceedings{chowdhury2021tracing,
-  title={Tracing source language interference in translation with graph-isomorphism measures},
-  author={Chowdhury, Koel Dutta and Espa{\~n}a-Bonet, Cristina and van Genabith, Josef},
-  booktitle={Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021)},
-  pages={375--385},
-  year={2021}
-}
-
-@inproceedings{chowdhury2020understanding,
-  title={Understanding translationese in multi-view embedding spaces},
-  author={Chowdhury, Koel Dutta and Espa{\~n}a-Bonet, Cristina and van Genabith, Josef},
-  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
-  pages={6056--6062},
-  year={2020}
-}
